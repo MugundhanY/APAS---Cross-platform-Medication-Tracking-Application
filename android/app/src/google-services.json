@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "886064582232",
+    "project_id": "med-search-22572",
+    "storage_bucket": "med-search-22572.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886064582232:android:33aad5132d8cd6d4ddc42d",
+        "android_client_info": {
+          "package_name": "com.example.hackathon_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886064582232-iu5m5ch7mvdqhvdqrj9i994otqdfp8kg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hackathon_project",
+            "certificate_hash": "2cd1653a7c0b578717a0e3c32e5c9c84225aa199"
+          }
+        },
+        {
+          "client_id": "886064582232-ov1smjest5cm49jfnb0k1e18lqcsspn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIwLOtXM3L1M5DcnIBl4HWrP9s3KXivuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886064582232-481fbk18nb0gq6ssg55dnf5vqih1loko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
