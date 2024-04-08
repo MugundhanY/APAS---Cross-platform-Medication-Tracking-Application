@@ -16,7 +16,7 @@ APAS is a mobile application designed to help users manage their medication sche
 
 Follow these instructions to get APAS up and running on your local machine:
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/apas.git`
+1. Clone this repository to your local machine using `git clone https://github.com/MugundhanY/APAS---Cross-platform-Medication-Tracking-Application.git`
 2. Navigate to the project directory.
 3. Ensure you have Flutter installed. If not, follow the installation instructions [here](https://flutter.dev/docs/get-started/install).
 4. Integrate with Firebase and Change the link variable in camera page to backend hosted link. 
